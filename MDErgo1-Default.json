@@ -2,7 +2,7 @@
     "header": {
         "Author": "Colton Myers @basepi",
         "Base": "Blank",
-        "Date": "2015-11-16",
+        "Date": "2015-12-08",
         "Generator": "KIICONF 0.2",
         "KLL": "0.3c",
         "Layout": "Default",
@@ -525,6 +525,10 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
+                },
+                "1": {
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             },
             "w": 4,
